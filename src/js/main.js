@@ -89,3 +89,23 @@
 // console.log(Math.sqrt(19491))
 // console.log(Math.cbrt(545))
 
+// let numero=45
+
+// if(numero>0){
+
+//     console.log("positivo")
+// }else{
+//     console.log("negativo")
+// }
+
+
+//console.log(Math.sign(-481656516))
+
+listaNumero=[1,5,6,9]
+
+console.log(listaNumero.sort())
+console.log(Math.max(...listaNumero))
+console.log(Math.min(...listaNumero))
+
+console.log(Math.max(1,44,2,16))
+console.log(Math.min(1,44,2,16))
