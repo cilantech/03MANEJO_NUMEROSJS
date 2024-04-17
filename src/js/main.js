@@ -23,5 +23,10 @@
 // console.info(typeof(myFirtsNumber))
 // console.info(Number.isInteger(myFirtsNumber))
 
-const numberOne = 50000
-const numberTwo = 50000
+const numberOne = 500000000000
+const numberTwo = 500_000_000_000
+
+console.info(numberOne+numberTwo)
+console.info(numberOne-numberTwo)
+console.info(numberOne*numberTwo)
+console.info(numberOne/numberTwo)
