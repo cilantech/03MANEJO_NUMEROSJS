@@ -30,3 +30,7 @@ console.info(numberOne+numberTwo)
 console.info(numberOne-numberTwo)
 console.info(numberOne*numberTwo)
 console.info(numberOne/numberTwo)
+console.info(Number.isFinite(numberOne*numberTwo))
+console.info(Number.MAX_VALUE) // saber valor maximo
+console.info(Number.MIN_VALUE) // saber valor minimo
+console.info(Math.PI)
